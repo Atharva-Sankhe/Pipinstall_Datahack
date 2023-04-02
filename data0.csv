@@ -1,0 +1,288 @@
+,Left Hand Side,Right Hand Side
+0,Acorn Squash,Brussels Sprouts
+1,Flatiron Steak,Ahi Tuna
+2,Angel Food Cake,Chocolate Tart
+3,Angel Food Cake,Mushroom Tortellini
+4,Angel Food Cake,etta Old Fashioned
+5,Athena,Sunset On Damen
+6,Avocado,Breakfast Sandwich
+7,Avocado,Crispy Potatoes
+8,Avocado,Huevos Rancheros
+9,Banana Bread,Avocado Toast
+10,Biscuits,Avocado Toast
+11,Avocado Toast,Bloody
+12,Avocado Toast,Breakfast Sandwich
+13,Avocado Toast,Crispy Potatoes
+14,Fire- Roasted Breakfast Sausage,Avocado Toast
+15,French Toast,Avocado Toast
+16,Avocado Toast,Huevos Rancheros
+17,Kouign-Amann,Avocado Toast
+18,Maple-Glazed Bacon,Avocado Toast
+19,Avocado Toast,Mimosa
+20,Mimosa Package,Avocado Toast
+21,Orange Juice,Avocado Toast
+22,Avocado Toast,Sparrow Regular Coffee
+23,Spicy Fire Roasted Eggs,Avocado Toast
+24,Avocado Toast,Sticky Bun
+25,Banana Bread,Bloody
+26,Banana Bread,Breakfast Sandwich
+27,Banana Bread,Crispy Chicken Sandwich
+28,Banana Bread,Crispy Potatoes
+29,Banana Bread,Huevos Rancheros
+30,Banana Bread,Sparrow Regular Coffee
+31,Banana Bread,Sticky Bun
+32,Beef Cheek Agnolotti,Brussels Sprouts
+33,Beef Cheek Agnolotti,Green With Envy
+34,Biscuits,Breakfast Sandwich
+35,Biscuits,Crispy Potatoes
+36,Biscuits,Etta Soft Scramble
+37,Biscuits,Huevos Rancheros
+38,Biscuits,Kouign-Amann
+39,Biscuits,Sparrow Cold Brewed Coffee
+40,Biscuits,Sparrow Regular Coffee
+41,Biscuits,Sticky Bun
+42,Breakfast Burrito,Bloody
+43,Bloody,Breakfast Sandwich
+44,Brunch Margherita Pizza,Bloody
+45,Brunch Pepperoni Pizza,Bloody
+46,Brunch Wild Mushroom,Bloody
+47,Bloody,Crispy Chicken Sandwich
+48,Bloody,Crispy Potatoes
+49,Duck Hash,Bloody
+50,Elysian Tarte Flambe,Bloody
+51,Bloody,Etta Soft Scramble
+52,Fire- Roasted Breakfast Sausage,Bloody
+53,French Toast,Bloody
+54,Bloody,Huevos Rancheros
+55,Kouign-Amann,Bloody
+56,La Colombe Cold Brewed Coffee,Bloody
+57,Maple-Glazed Bacon,Bloody
+58,Bloody,Mimosa
+59,Paloma - Mezcal,Bloody
+60,Paloma - Tequila,Bloody
+61,Short Rib Hash,Bloody
+62,Sparrow Cold Brewed Coffee,Bloody
+63,Bloody,Sparrow Regular Coffee
+64,Spicy Fire Roasted Eggs,Bloody
+65,Bloody,Sticky Bun
+66,Wood- Fired Frittata,Bloody
+67,Bolognese,Chitarra Cacio e Pepe
+68,Bolognese,Diavola Pizza
+69,Bolognese,Dreaming In Provance
+70,Bolognese,Wagyu Meatballs
+71,Breakfast Burrito,Breakfast Sandwich
+72,Challah French Toast,Breakfast Burrito
+73,Breakfast Burrito,Crispy Chicken Sandwich
+74,Breakfast Burrito,Crispy Potatoes
+75,Breakfast Burrito,Huevos Rancheros
+76,Breakfast Burrito,Maple-Glazed Bacon
+77,Breakfast Burrito,Sparrow Regular Coffee
+78,Breakfast Burrito,Sticky Bun
+79,Challah French Toast,Breakfast Sandwich
+80,Breakfast Sandwich,Crispy Chicken Sandwich
+81,Crispy Potatoes,Breakfast Sandwich
+82,Duck Hash,Breakfast Sandwich
+83,Elysian Tarte Flambe,Breakfast Sandwich
+84,Etta Soft Scramble,Breakfast Sandwich
+85,Fire- Roasted Breakfast Sausage,Breakfast Sandwich
+86,French Toast,Breakfast Sandwich
+87,Grapefruit Juice,Breakfast Sandwich
+88,Breakfast Sandwich,Huevos Rancheros
+89,Kouign-A,Breakfast Sandwich
+90,Kouign-Amann,Breakfast Sandwich
+91,La Colombe Cold Brewed Coffee,Breakfast Sandwich
+92,La Colombe Regular Coffee,Breakfast Sandwich
+93,Maple-Glazed Bacon,Breakfast Sandwich
+94,Mimosa,Breakfast Sandwich
+95,Mimosa Package,Breakfast Sandwich
+96,Orange Juice,Breakfast Sandwich
+97,Paloma - Mezcal,Breakfast Sandwich
+98,Paloma - Tequila,Breakfast Sandwich
+99,Pancakes,Breakfast Sandwich
+100,Short Rib Hash,Breakfast Sandwich
+101,Sparrow Cold Brewed Coffee,Breakfast Sandwich
+102,Breakfast Sandwich,Sparrow Regular Coffee
+103,Spicy Fire Roasted Eggs,Breakfast Sandwich
+104,Breakfast Sandwich,Sticky Bun
+105,Wood- Fired Frittata,Breakfast Sandwich
+106,Brunch Margherita Pizza,Crispy Chicken Sandwich
+107,Brunch Margherita Pizza,Sticky Bun
+108,Brunch Pepperoni Pizza,Crispy Chicken Sandwich
+109,Brunch Wild Mushroom,Crispy Chicken Sandwich
+110,Brunch Wild Mushroom,Sticky Bun
+111,Cosmonaut,Brussels Sprouts
+112,Fettuccine,Brussels Sprouts
+113,Milk Chocolate Cremeux,Brussels Sprouts
+114,pappardelle,Brussels Sprouts
+115,Caramelized Apple Sundae,Brussels sprouts
+116,GL Omero,Brussels sprouts
+117,GL One Stone Cabernet,Brussels sprouts
+118,Lorighittas,Brussels sprouts
+119,Diavola Pizza,Caesar
+120,Caramelized Apple Sundae,Chocolate Malt Pudding
+121,Caramelized Apple Sundae,Dreaming In Provance
+122,Caramelized Apple Sundae,Etta Old Fashioned
+123,Chocolate Pot de Creme,Cauliflower
+124,Spring Pea Agnolotti,Cauliflower
+125,Macaron,Celebration Shot
+126,Challah French Toast,Maple-Glazed Bacon
+127,Challah French Toast,Mimosa
+128,Challah French Toast,Sparrow Regular Coffee
+129,Date Cake,Chitarra
+130,The Bad Boy,Chitarra
+131,Chitarra Cacio e Pepe,Diavola Pizza
+132,Chitarra Cacio e Pepe,Etta Old Fashioned
+133,Chitarra Cacio e Pepe,Naughty Boy
+134,Chitarra Cacio e Pepe,Wagyu Meatballs
+135,charred broccoli,Chitarra Cacio e Pepe
+136,Chocolate Malt Pudding,Etta Old Fashioned
+137,Chocolate Pot de Creme,Spring Pea Agnolotti
+138,Chocolate Tart,Mushroom Tortellini
+139,Cosmonaut,Green With Envy
+140,Duck Hash,Crispy Chicken Sandwich
+141,Grapefruit Juice,Crispy Chicken Sandwich
+142,Huevos Rancheros,Crispy Chicken Sandwich
+143,La Colombe Cold Brewed Coffee,Crispy Chicken Sandwich
+144,Maple-Glazed Bacon,Crispy Chicken Sandwich
+145,Mimosa,Crispy Chicken Sandwich
+146,Mimosa Package,Crispy Chicken Sandwich
+147,Orange Juice,Crispy Chicken Sandwich
+148,Paloma - Mezcal,Crispy Chicken Sandwich
+149,Paloma - Tequila,Crispy Chicken Sandwich
+150,Sticky Bun,Crispy Chicken Sandwich
+151,pig picnic pita,Crispy Chicken Sandwich
+152,Crispy Potatoes,Etta Soft Scramble
+153,Fire- Roasted Breakfast Sausage,Crispy Potatoes
+154,French Toast,Crispy Potatoes
+155,Crispy Potatoes,Huevos Rancheros
+156,La Colombe Cold Brewed Coffee,Crispy Potatoes
+157,La Colombe Regular Coffee,Crispy Potatoes
+158,Maple-Glazed Bacon,Crispy Potatoes
+159,Mimosa Package,Crispy Potatoes
+160,Orange Juice,Crispy Potatoes
+161,Pancakes,Crispy Potatoes
+162,Crispy Potatoes,Sparrow Regular Coffee
+163,Spicy Fire Roasted Eggs,Crispy Potatoes
+164,Crispy Potatoes,Sticky Bun
+165,Wood- Fired Frittata,Crispy Potatoes
+166,Cult Classic,Green With Envy
+167,Cult Classic,Mushroom Tortellini
+168,Cult Classic,Princess Peach
+169,Cult Classic,etta Old Fashioned
+170,Cult Classic,sunset on damen
+171,Diavola Pizza,Wagyu Meatballs
+172,Dreaming In Provance,Etta Old Fashioned
+173,Fall in Love,Dreaming In Provance
+174,Naughty Boy,Dreaming In Provance
+175,Duck Hash,Huevos Rancheros
+176,Duck Hash,Sparrow Regular Coffee
+177,Duck Hash,Sticky Bun
+178,Easter Bacon,Easter Potatoes
+179,Elysian Tarte Flambe,Huevos Rancheros
+180,Elysian Tarte Flambe,Sticky Bun
+181,Fromage Noir,Etta Old Fashioned
+182,Lorighittas,Etta Old Fashioned
+183,Naughty Boy,Etta Old Fashioned
+184,Sunset on Damen,Etta Old Fashioned
+185,Wagyu Meatballs,Etta Old Fashioned
+186,Fire- Roasted Breakfast Sausage,Etta Soft Scramble
+187,Etta Soft Scramble,Huevos Rancheros
+188,Kouign-Amann,Etta Soft Scramble
+189,La Colombe Regular Coffee,Etta Soft Scramble
+190,Maple-Glazed Bacon,Etta Soft Scramble
+191,Mimosa,Etta Soft Scramble
+192,Mimosa Package,Etta Soft Scramble
+193,Short Rib Hash,Etta Soft Scramble
+194,Etta Soft Scramble,Sparrow Regular Coffee
+195,Etta Soft Scramble,Sticky Bun
+196,Wood- Fired Frittata,Etta Soft Scramble
+197,Fall in Love,Naughty Boy
+198,Fig & Coppa Pizza,sunset on damen
+199,Fire- Roasted Breakfast Sausage,Huevos Rancheros
+200,French Toast,Huevos Rancheros
+201,French Toast,La Colombe Regular Coffee
+202,French Toast,Maple-Glazed Bacon
+203,French Toast,Sticky Bun
+204,Gl Bacchus,etta Old Fashioned
+205,Grapefruit Juice,Huevos Rancheros
+206,Grapefruit Juice,Sparrow Regular Coffee
+207,Love Letters,Green With Envy
+208,Princess Peach,Green With Envy
+209,Green With Envy,etta Old Fashioned
+210,Green With Envy,sunset on damen
+211,Hearth Roasted Cauliflower,Milk Chocolate Cremeux
+212,Spicy Green Beans,Hearth Roasted Cauliflower
+213,Hearth Roasted Cauliflower,etta Old Fashioned
+214,Hearth Roasted Cauliflower,sunset on damen
+215,Kouign-A,Huevos Rancheros
+216,Kouign-Amann,Huevos Rancheros
+217,La Colombe Cold Brewed Coffee,Huevos Rancheros
+218,La Colombe Regular Coffee,Huevos Rancheros
+219,Maple-Glazed Bacon,Huevos Rancheros
+220,Mimosa,Huevos Rancheros
+221,Mimosa Package,Huevos Rancheros
+222,Orange Juice,Huevos Rancheros
+223,Paloma - Mezcal,Huevos Rancheros
+224,Paloma - Tequila,Huevos Rancheros
+225,Pancakes,Huevos Rancheros
+226,Short Rib Hash,Huevos Rancheros
+227,Sparrow Cold Brewed Coffee,Huevos Rancheros
+228,Huevos Rancheros,Sparrow Regular Coffee
+229,Spicy Fire Roasted Eggs,Huevos Rancheros
+230,Huevos Rancheros,Sticky Bun
+231,Wood- Fired Frittata,Huevos Rancheros
+232,Kouign-A,La Colombe Regular Coffee
+233,Kouign-Amann,Sparrow Cold Brewed Coffee
+234,Kouign-Amann,Sparrow Regular Coffee
+235,Kouign-Amann,Spicy Fire Roasted Eggs
+236,Kouign-Amann,Sticky Bun
+237,La Colombe Cold Brewed Coffee,La Colombe Regular Coffee
+238,La Colombe Cold Brewed Coffee,Sticky Bun
+239,La Colombe Cold Brewed Coffee,Wood- Fired Frittata
+240,La Colombe Regular Coffee,Sticky Bun
+241,Summer Hash,La Colombe Regular Coffee
+242,Sweet Potato Latke,La Colombe Regular Coffee
+243,Wood- Fired Frittata,La Colombe Regular Coffee
+244,La Unica,Naughty Boy
+245,Malfadine,sunset on damen
+246,Maple-Glazed Bacon,Sparrow Regular Coffee
+247,Maple-Glazed Bacon,Sticky Bun
+248,pappardelle,Milk Chocolate Cremeux
+249,Mimosa,Sparrow Regular Coffee
+250,Mimosa,Sticky Bun
+251,Short Rib Hash,Mimosa Package
+252,Mimosa Package,Sticky Bun
+253,Spicy Green Beans,Mushroom Tortellini
+254,Mushroom Tortellini,etta Old Fashioned
+255,Mushroom Tortellini,sunset on damen
+256,Naughty Boy,Wagyu Meatballs
+257,Orange Juice,Sparrow Regular Coffee
+258,Orange Juice,Sticky Bun
+259,Paloma - Mezcal,Sticky Bun
+260,Paloma - Tequila,Sticky Bun
+261,Pancakes,Sparrow Regular Coffee
+262,Pancakes,Sticky Bun
+263,Princess Peach,etta Old Fashioned
+264,Princess Peach,sunset on damen
+265,Summer Love,Sacchettoni
+266,Sunset on Damen,Sacchettoni
+267,The Bad Boy,Sacchettoni
+268,Short Rib Hash,Sparrow Cold Brewed Coffee
+269,Short Rib Hash,Sparrow Regular Coffee
+270,Short Rib Hash,Sticky Bun
+271,Sparrow Cold Brewed Coffee,Sparrow Regular Coffee
+272,Sparrow Cold Brewed Coffee,Sticky Bun
+273,Sparrow Decafe Coffee,Sparrow Regular Coffee
+274,Spicy Fire Roasted Eggs,Sparrow Regular Coffee
+275,Sticky Bun,Sparrow Regular Coffee
+276,Spicy Fire Roasted Eggs,Sticky Bun
+277,Spicy Green Beans,etta Old Fashioned
+278,Spicy Green Beans,sunset on damen
+279,Wood- Fired Frittata,Sticky Bun
+280,The Bad Boy,Summer Love
+281,Sunset on Damen,The Bad Boy
+282,pappardelle,etta Old Fashioned
+283,etta Old Fashioned,sunset on damen
+284,pappardelle,sunset on damen
+mehdi,0
+coke,0
